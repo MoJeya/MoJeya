@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mohan's Github Banner](./assets/Github_header.png)
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=mjeyavat)](https://github.com/mohouyizme/1337-readme)
-[![Mohan's Github Banner](./assets/Github_header.png)]
 
