@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=mjeyavat)](https://github.com/mohouyizme/1337-readme)
-![Metrics](https://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@github.com/MoJeya)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&leet_logo=hide&login=ozaazaa)](https://github.com/mohouyizme/1337-readme)
+
+
